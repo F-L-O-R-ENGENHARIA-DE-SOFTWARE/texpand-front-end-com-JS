@@ -1,0 +1,1289 @@
+{
+  "revisao": 2,
+  "data": "2026-11-08",
+  "html": {
+    "paginas": [
+      "ajuda.html",
+      "cadastro.html",
+      "configuracoes.html",
+      "estados.html",
+      "index.html",
+      "login.html",
+      "movimentacoes.html",
+      "notificacoes.html",
+      "recuperar-senha.html",
+      "visao-geral.html"
+    ],
+    "erros": []
+  },
+  "css": {
+    "arquivos": 26,
+    "sintaxe": "ok",
+    "referencias": "ok",
+    "variaveis": "ok",
+    "barras": {
+      "receitas": 5.761962180906413,
+      "despesas": 3.194853482566189
+    }
+  },
+  "javascript": {
+    "arquivos": 6,
+    "sintaxe": "Todos aprovados por node --check."
+  },
+  "navegador": {
+    "navegador": "Chromium headless",
+    "layouts": [
+      {
+        "tela": "login",
+        "tema": "claro",
+        "largura": 1366,
+        "altura": 768,
+        "larguraDocumento": 1366,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "cadastro",
+        "tema": "claro",
+        "largura": 1366,
+        "altura": 768,
+        "larguraDocumento": 1366,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "recuperar-senha",
+        "tema": "claro",
+        "largura": 1366,
+        "altura": 768,
+        "larguraDocumento": 1366,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "visao-geral",
+        "tema": "claro",
+        "largura": 1366,
+        "altura": 768,
+        "larguraDocumento": 1366,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "movimentacoes",
+        "tema": "claro",
+        "largura": 1366,
+        "altura": 768,
+        "larguraDocumento": 1366,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "configuracoes",
+        "tema": "claro",
+        "largura": 1366,
+        "altura": 768,
+        "larguraDocumento": 1366,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "notificacoes",
+        "tema": "claro",
+        "largura": 1366,
+        "altura": 768,
+        "larguraDocumento": 1366,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "ajuda",
+        "tema": "claro",
+        "largura": 1366,
+        "altura": 768,
+        "larguraDocumento": 1366,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "login",
+        "tema": "escuro",
+        "largura": 1366,
+        "altura": 768,
+        "larguraDocumento": 1366,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "cadastro",
+        "tema": "escuro",
+        "largura": 1366,
+        "altura": 768,
+        "larguraDocumento": 1366,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "recuperar-senha",
+        "tema": "escuro",
+        "largura": 1366,
+        "altura": 768,
+        "larguraDocumento": 1366,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "visao-geral",
+        "tema": "escuro",
+        "largura": 1366,
+        "altura": 768,
+        "larguraDocumento": 1366,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "movimentacoes",
+        "tema": "escuro",
+        "largura": 1366,
+        "altura": 768,
+        "larguraDocumento": 1366,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "configuracoes",
+        "tema": "escuro",
+        "largura": 1366,
+        "altura": 768,
+        "larguraDocumento": 1366,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "notificacoes",
+        "tema": "escuro",
+        "largura": 1366,
+        "altura": 768,
+        "larguraDocumento": 1366,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "ajuda",
+        "tema": "escuro",
+        "largura": 1366,
+        "altura": 768,
+        "larguraDocumento": 1366,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "login",
+        "tema": "claro",
+        "largura": 1280,
+        "altura": 720,
+        "larguraDocumento": 1280,
+        "alturaDocumento": 720,
+        "avisos": false
+      },
+      {
+        "tela": "cadastro",
+        "tema": "claro",
+        "largura": 1280,
+        "altura": 720,
+        "larguraDocumento": 1280,
+        "alturaDocumento": 720,
+        "avisos": false
+      },
+      {
+        "tela": "recuperar-senha",
+        "tema": "claro",
+        "largura": 1280,
+        "altura": 720,
+        "larguraDocumento": 1280,
+        "alturaDocumento": 720,
+        "avisos": false
+      },
+      {
+        "tela": "visao-geral",
+        "tema": "claro",
+        "largura": 1280,
+        "altura": 720,
+        "larguraDocumento": 1280,
+        "alturaDocumento": 720,
+        "avisos": false
+      },
+      {
+        "tela": "movimentacoes",
+        "tema": "claro",
+        "largura": 1280,
+        "altura": 720,
+        "larguraDocumento": 1280,
+        "alturaDocumento": 720,
+        "avisos": false
+      },
+      {
+        "tela": "configuracoes",
+        "tema": "claro",
+        "largura": 1280,
+        "altura": 720,
+        "larguraDocumento": 1280,
+        "alturaDocumento": 720,
+        "avisos": false
+      },
+      {
+        "tela": "notificacoes",
+        "tema": "claro",
+        "largura": 1280,
+        "altura": 720,
+        "larguraDocumento": 1280,
+        "alturaDocumento": 720,
+        "avisos": false
+      },
+      {
+        "tela": "ajuda",
+        "tema": "claro",
+        "largura": 1280,
+        "altura": 720,
+        "larguraDocumento": 1280,
+        "alturaDocumento": 720,
+        "avisos": false
+      },
+      {
+        "tela": "login",
+        "tema": "escuro",
+        "largura": 1280,
+        "altura": 720,
+        "larguraDocumento": 1280,
+        "alturaDocumento": 720,
+        "avisos": false
+      },
+      {
+        "tela": "cadastro",
+        "tema": "escuro",
+        "largura": 1280,
+        "altura": 720,
+        "larguraDocumento": 1280,
+        "alturaDocumento": 720,
+        "avisos": false
+      },
+      {
+        "tela": "recuperar-senha",
+        "tema": "escuro",
+        "largura": 1280,
+        "altura": 720,
+        "larguraDocumento": 1280,
+        "alturaDocumento": 720,
+        "avisos": false
+      },
+      {
+        "tela": "visao-geral",
+        "tema": "escuro",
+        "largura": 1280,
+        "altura": 720,
+        "larguraDocumento": 1280,
+        "alturaDocumento": 720,
+        "avisos": false
+      },
+      {
+        "tela": "movimentacoes",
+        "tema": "escuro",
+        "largura": 1280,
+        "altura": 720,
+        "larguraDocumento": 1280,
+        "alturaDocumento": 720,
+        "avisos": false
+      },
+      {
+        "tela": "configuracoes",
+        "tema": "escuro",
+        "largura": 1280,
+        "altura": 720,
+        "larguraDocumento": 1280,
+        "alturaDocumento": 720,
+        "avisos": false
+      },
+      {
+        "tela": "notificacoes",
+        "tema": "escuro",
+        "largura": 1280,
+        "altura": 720,
+        "larguraDocumento": 1280,
+        "alturaDocumento": 720,
+        "avisos": false
+      },
+      {
+        "tela": "ajuda",
+        "tema": "escuro",
+        "largura": 1280,
+        "altura": 720,
+        "larguraDocumento": 1280,
+        "alturaDocumento": 720,
+        "avisos": false
+      },
+      {
+        "tela": "login",
+        "tema": "claro",
+        "largura": 1024,
+        "altura": 768,
+        "larguraDocumento": 1024,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "cadastro",
+        "tema": "claro",
+        "largura": 1024,
+        "altura": 768,
+        "larguraDocumento": 1024,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "recuperar-senha",
+        "tema": "claro",
+        "largura": 1024,
+        "altura": 768,
+        "larguraDocumento": 1024,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "visao-geral",
+        "tema": "claro",
+        "largura": 1024,
+        "altura": 768,
+        "larguraDocumento": 1024,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "movimentacoes",
+        "tema": "claro",
+        "largura": 1024,
+        "altura": 768,
+        "larguraDocumento": 1024,
+        "alturaDocumento": 802,
+        "avisos": false
+      },
+      {
+        "tela": "configuracoes",
+        "tema": "claro",
+        "largura": 1024,
+        "altura": 768,
+        "larguraDocumento": 1024,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "notificacoes",
+        "tema": "claro",
+        "largura": 1024,
+        "altura": 768,
+        "larguraDocumento": 1024,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "ajuda",
+        "tema": "claro",
+        "largura": 1024,
+        "altura": 768,
+        "larguraDocumento": 1024,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "login",
+        "tema": "escuro",
+        "largura": 1024,
+        "altura": 768,
+        "larguraDocumento": 1024,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "cadastro",
+        "tema": "escuro",
+        "largura": 1024,
+        "altura": 768,
+        "larguraDocumento": 1024,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "recuperar-senha",
+        "tema": "escuro",
+        "largura": 1024,
+        "altura": 768,
+        "larguraDocumento": 1024,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "visao-geral",
+        "tema": "escuro",
+        "largura": 1024,
+        "altura": 768,
+        "larguraDocumento": 1024,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "movimentacoes",
+        "tema": "escuro",
+        "largura": 1024,
+        "altura": 768,
+        "larguraDocumento": 1024,
+        "alturaDocumento": 802,
+        "avisos": false
+      },
+      {
+        "tela": "configuracoes",
+        "tema": "escuro",
+        "largura": 1024,
+        "altura": 768,
+        "larguraDocumento": 1024,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "notificacoes",
+        "tema": "escuro",
+        "largura": 1024,
+        "altura": 768,
+        "larguraDocumento": 1024,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "ajuda",
+        "tema": "escuro",
+        "largura": 1024,
+        "altura": 768,
+        "larguraDocumento": 1024,
+        "alturaDocumento": 768,
+        "avisos": false
+      },
+      {
+        "tela": "login",
+        "tema": "claro",
+        "largura": 375,
+        "altura": 812,
+        "larguraDocumento": 375,
+        "alturaDocumento": 812,
+        "avisos": false
+      },
+      {
+        "tela": "cadastro",
+        "tema": "claro",
+        "largura": 375,
+        "altura": 812,
+        "larguraDocumento": 375,
+        "alturaDocumento": 874,
+        "avisos": false
+      },
+      {
+        "tela": "recuperar-senha",
+        "tema": "claro",
+        "largura": 375,
+        "altura": 812,
+        "larguraDocumento": 375,
+        "alturaDocumento": 812,
+        "avisos": false
+      },
+      {
+        "tela": "visao-geral",
+        "tema": "claro",
+        "largura": 375,
+        "altura": 812,
+        "larguraDocumento": 375,
+        "alturaDocumento": 1479,
+        "avisos": false
+      },
+      {
+        "tela": "movimentacoes",
+        "tema": "claro",
+        "largura": 375,
+        "altura": 812,
+        "larguraDocumento": 375,
+        "alturaDocumento": 1327,
+        "avisos": false
+      },
+      {
+        "tela": "configuracoes",
+        "tema": "claro",
+        "largura": 375,
+        "altura": 812,
+        "larguraDocumento": 375,
+        "alturaDocumento": 1456,
+        "avisos": false
+      },
+      {
+        "tela": "notificacoes",
+        "tema": "claro",
+        "largura": 375,
+        "altura": 812,
+        "larguraDocumento": 375,
+        "alturaDocumento": 888,
+        "avisos": false
+      },
+      {
+        "tela": "ajuda",
+        "tema": "claro",
+        "largura": 375,
+        "altura": 812,
+        "larguraDocumento": 375,
+        "alturaDocumento": 1067,
+        "avisos": false
+      },
+      {
+        "tela": "login",
+        "tema": "escuro",
+        "largura": 375,
+        "altura": 812,
+        "larguraDocumento": 375,
+        "alturaDocumento": 812,
+        "avisos": false
+      },
+      {
+        "tela": "cadastro",
+        "tema": "escuro",
+        "largura": 375,
+        "altura": 812,
+        "larguraDocumento": 375,
+        "alturaDocumento": 874,
+        "avisos": false
+      },
+      {
+        "tela": "recuperar-senha",
+        "tema": "escuro",
+        "largura": 375,
+        "altura": 812,
+        "larguraDocumento": 375,
+        "alturaDocumento": 812,
+        "avisos": false
+      },
+      {
+        "tela": "visao-geral",
+        "tema": "escuro",
+        "largura": 375,
+        "altura": 812,
+        "larguraDocumento": 375,
+        "alturaDocumento": 1479,
+        "avisos": false
+      },
+      {
+        "tela": "movimentacoes",
+        "tema": "escuro",
+        "largura": 375,
+        "altura": 812,
+        "larguraDocumento": 375,
+        "alturaDocumento": 1327,
+        "avisos": false
+      },
+      {
+        "tela": "configuracoes",
+        "tema": "escuro",
+        "largura": 375,
+        "altura": 812,
+        "larguraDocumento": 375,
+        "alturaDocumento": 1456,
+        "avisos": false
+      },
+      {
+        "tela": "notificacoes",
+        "tema": "escuro",
+        "largura": 375,
+        "altura": 812,
+        "larguraDocumento": 375,
+        "alturaDocumento": 888,
+        "avisos": false
+      },
+      {
+        "tela": "ajuda",
+        "tema": "escuro",
+        "largura": 375,
+        "altura": 812,
+        "larguraDocumento": 375,
+        "alturaDocumento": 1067,
+        "avisos": false
+      },
+      {
+        "tela": "login",
+        "tema": "claro",
+        "largura": 375,
+        "altura": 667,
+        "larguraDocumento": 375,
+        "alturaDocumento": 667,
+        "avisos": false
+      },
+      {
+        "tela": "cadastro",
+        "tema": "claro",
+        "largura": 375,
+        "altura": 667,
+        "larguraDocumento": 375,
+        "alturaDocumento": 834,
+        "avisos": false
+      },
+      {
+        "tela": "recuperar-senha",
+        "tema": "claro",
+        "largura": 375,
+        "altura": 667,
+        "larguraDocumento": 375,
+        "alturaDocumento": 667,
+        "avisos": false
+      },
+      {
+        "tela": "visao-geral",
+        "tema": "claro",
+        "largura": 375,
+        "altura": 667,
+        "larguraDocumento": 375,
+        "alturaDocumento": 1443,
+        "avisos": false
+      },
+      {
+        "tela": "movimentacoes",
+        "tema": "claro",
+        "largura": 375,
+        "altura": 667,
+        "larguraDocumento": 375,
+        "alturaDocumento": 1327,
+        "avisos": false
+      },
+      {
+        "tela": "configuracoes",
+        "tema": "claro",
+        "largura": 375,
+        "altura": 667,
+        "larguraDocumento": 375,
+        "alturaDocumento": 1456,
+        "avisos": false
+      },
+      {
+        "tela": "notificacoes",
+        "tema": "claro",
+        "largura": 375,
+        "altura": 667,
+        "larguraDocumento": 375,
+        "alturaDocumento": 888,
+        "avisos": false
+      },
+      {
+        "tela": "ajuda",
+        "tema": "claro",
+        "largura": 375,
+        "altura": 667,
+        "larguraDocumento": 375,
+        "alturaDocumento": 1067,
+        "avisos": false
+      },
+      {
+        "tela": "login",
+        "tema": "escuro",
+        "largura": 375,
+        "altura": 667,
+        "larguraDocumento": 375,
+        "alturaDocumento": 667,
+        "avisos": false
+      },
+      {
+        "tela": "cadastro",
+        "tema": "escuro",
+        "largura": 375,
+        "altura": 667,
+        "larguraDocumento": 375,
+        "alturaDocumento": 834,
+        "avisos": false
+      },
+      {
+        "tela": "recuperar-senha",
+        "tema": "escuro",
+        "largura": 375,
+        "altura": 667,
+        "larguraDocumento": 375,
+        "alturaDocumento": 667,
+        "avisos": false
+      },
+      {
+        "tela": "visao-geral",
+        "tema": "escuro",
+        "largura": 375,
+        "altura": 667,
+        "larguraDocumento": 375,
+        "alturaDocumento": 1443,
+        "avisos": false
+      },
+      {
+        "tela": "movimentacoes",
+        "tema": "escuro",
+        "largura": 375,
+        "altura": 667,
+        "larguraDocumento": 375,
+        "alturaDocumento": 1327,
+        "avisos": false
+      },
+      {
+        "tela": "configuracoes",
+        "tema": "escuro",
+        "largura": 375,
+        "altura": 667,
+        "larguraDocumento": 375,
+        "alturaDocumento": 1456,
+        "avisos": false
+      },
+      {
+        "tela": "notificacoes",
+        "tema": "escuro",
+        "largura": 375,
+        "altura": 667,
+        "larguraDocumento": 375,
+        "alturaDocumento": 888,
+        "avisos": false
+      },
+      {
+        "tela": "ajuda",
+        "tema": "escuro",
+        "largura": 375,
+        "altura": 667,
+        "larguraDocumento": 375,
+        "alturaDocumento": 1067,
+        "avisos": false
+      },
+      {
+        "tela": "login",
+        "tema": "claro",
+        "largura": 320,
+        "altura": 640,
+        "larguraDocumento": 320,
+        "alturaDocumento": 640,
+        "avisos": false
+      },
+      {
+        "tela": "cadastro",
+        "tema": "claro",
+        "largura": 320,
+        "altura": 640,
+        "larguraDocumento": 320,
+        "alturaDocumento": 850,
+        "avisos": false
+      },
+      {
+        "tela": "recuperar-senha",
+        "tema": "claro",
+        "largura": 320,
+        "altura": 640,
+        "larguraDocumento": 320,
+        "alturaDocumento": 640,
+        "avisos": false
+      },
+      {
+        "tela": "visao-geral",
+        "tema": "claro",
+        "largura": 320,
+        "altura": 640,
+        "larguraDocumento": 320,
+        "alturaDocumento": 1457,
+        "avisos": false
+      },
+      {
+        "tela": "movimentacoes",
+        "tema": "claro",
+        "largura": 320,
+        "altura": 640,
+        "larguraDocumento": 320,
+        "alturaDocumento": 1697,
+        "avisos": false
+      },
+      {
+        "tela": "configuracoes",
+        "tema": "claro",
+        "largura": 320,
+        "altura": 640,
+        "larguraDocumento": 320,
+        "alturaDocumento": 1582,
+        "avisos": false
+      },
+      {
+        "tela": "notificacoes",
+        "tema": "claro",
+        "largura": 320,
+        "altura": 640,
+        "larguraDocumento": 320,
+        "alturaDocumento": 983,
+        "avisos": false
+      },
+      {
+        "tela": "ajuda",
+        "tema": "claro",
+        "largura": 320,
+        "altura": 640,
+        "larguraDocumento": 320,
+        "alturaDocumento": 1088,
+        "avisos": false
+      },
+      {
+        "tela": "login",
+        "tema": "escuro",
+        "largura": 320,
+        "altura": 640,
+        "larguraDocumento": 320,
+        "alturaDocumento": 640,
+        "avisos": false
+      },
+      {
+        "tela": "cadastro",
+        "tema": "escuro",
+        "largura": 320,
+        "altura": 640,
+        "larguraDocumento": 320,
+        "alturaDocumento": 850,
+        "avisos": false
+      },
+      {
+        "tela": "recuperar-senha",
+        "tema": "escuro",
+        "largura": 320,
+        "altura": 640,
+        "larguraDocumento": 320,
+        "alturaDocumento": 640,
+        "avisos": false
+      },
+      {
+        "tela": "visao-geral",
+        "tema": "escuro",
+        "largura": 320,
+        "altura": 640,
+        "larguraDocumento": 320,
+        "alturaDocumento": 1457,
+        "avisos": false
+      },
+      {
+        "tela": "movimentacoes",
+        "tema": "escuro",
+        "largura": 320,
+        "altura": 640,
+        "larguraDocumento": 320,
+        "alturaDocumento": 1697,
+        "avisos": false
+      },
+      {
+        "tela": "configuracoes",
+        "tema": "escuro",
+        "largura": 320,
+        "altura": 640,
+        "larguraDocumento": 320,
+        "alturaDocumento": 1582,
+        "avisos": false
+      },
+      {
+        "tela": "notificacoes",
+        "tema": "escuro",
+        "largura": 320,
+        "altura": 640,
+        "larguraDocumento": 320,
+        "alturaDocumento": 983,
+        "avisos": false
+      },
+      {
+        "tela": "ajuda",
+        "tema": "escuro",
+        "largura": 320,
+        "altura": 640,
+        "larguraDocumento": 320,
+        "alturaDocumento": 1088,
+        "avisos": false
+      }
+    ],
+    "casos": [
+      "96 combinações de tela, tema e viewport: sem overflow horizontal; login sem scroll; sem avisos de demonstração.",
+      "Tema persiste após navegação, recarga, entrada no sistema e abertura direta de outra página.",
+      "Seletores de indicadores/gráficos usam o mesmo listbox e atualizam cartões, linhas e pizza.",
+      "Modais, campos e calendário seguem os dois temas; lançamento desktop cabe sem scroll interno; validação e datas funcionam.",
+      "Dropdowns cabem no celular; menu abre e fecha com Esc."
+    ],
+    "erros": [],
+    "errosLayout": [],
+    "limites": "Não inclui testes em Safari/Firefox ou auditoria completa de acessibilidade."
+  },
+  "paginas_auxiliares": "index.html preserva tema no redirecionamento; estados.html aplica ambos os temas.",
+  "limites": [
+    "Inspeção feita em Chromium por HTTP local; não certifica Safari/Firefox ou acessibilidade completa.",
+    "Funções financeiras e de conta continuam aguardando integração com serviços."
+  ],
+  "correcao_ajuda_acesso": {
+    "casos": [
+      {
+        "pagina": "login",
+        "tema": "claro",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "resultado": "Ajuda local sem navegação, links internos ou menu; fechar/Esc devolvem o foco."
+      },
+      {
+        "pagina": "cadastro",
+        "tema": "claro",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "resultado": "Ajuda local sem navegação, links internos ou menu; fechar/Esc devolvem o foco."
+      },
+      {
+        "pagina": "recuperar-senha",
+        "tema": "claro",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "resultado": "Ajuda local sem navegação, links internos ou menu; fechar/Esc devolvem o foco."
+      },
+      {
+        "pagina": "login",
+        "tema": "escuro",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "resultado": "Ajuda local sem navegação, links internos ou menu; fechar/Esc devolvem o foco."
+      },
+      {
+        "pagina": "cadastro",
+        "tema": "escuro",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "resultado": "Ajuda local sem navegação, links internos ou menu; fechar/Esc devolvem o foco."
+      },
+      {
+        "pagina": "recuperar-senha",
+        "tema": "escuro",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "resultado": "Ajuda local sem navegação, links internos ou menu; fechar/Esc devolvem o foco."
+      },
+      {
+        "pagina": "login",
+        "tema": "claro",
+        "viewport": {
+          "width": 375,
+          "height": 667
+        },
+        "resultado": "Ajuda local sem navegação, links internos ou menu; fechar/Esc devolvem o foco."
+      },
+      {
+        "pagina": "cadastro",
+        "tema": "claro",
+        "viewport": {
+          "width": 375,
+          "height": 667
+        },
+        "resultado": "Ajuda local sem navegação, links internos ou menu; fechar/Esc devolvem o foco."
+      },
+      {
+        "pagina": "recuperar-senha",
+        "tema": "claro",
+        "viewport": {
+          "width": 375,
+          "height": 667
+        },
+        "resultado": "Ajuda local sem navegação, links internos ou menu; fechar/Esc devolvem o foco."
+      },
+      {
+        "pagina": "login",
+        "tema": "escuro",
+        "viewport": {
+          "width": 375,
+          "height": 667
+        },
+        "resultado": "Ajuda local sem navegação, links internos ou menu; fechar/Esc devolvem o foco."
+      },
+      {
+        "pagina": "cadastro",
+        "tema": "escuro",
+        "viewport": {
+          "width": 375,
+          "height": 667
+        },
+        "resultado": "Ajuda local sem navegação, links internos ou menu; fechar/Esc devolvem o foco."
+      },
+      {
+        "pagina": "recuperar-senha",
+        "tema": "escuro",
+        "viewport": {
+          "width": 375,
+          "height": 667
+        },
+        "resultado": "Ajuda local sem navegação, links internos ou menu; fechar/Esc devolvem o foco."
+      }
+    ],
+    "erros": []
+  },
+  "estrutura_apos_correcao": {
+    "paginas": [
+      "ajuda.html",
+      "cadastro.html",
+      "configuracoes.html",
+      "estados.html",
+      "index.html",
+      "login.html",
+      "movimentacoes.html",
+      "notificacoes.html",
+      "recuperar-senha.html",
+      "visao-geral.html"
+    ],
+    "erros": []
+  },
+  "paleta_filtros": {
+    "resultados": [
+      {
+        "pagina": "visao-geral",
+        "tema": "escuro",
+        "janelas": 7,
+        "resultado": "Paleta escura em janelas, campos e seleção; equivalência entre temas confirmada."
+      },
+      {
+        "pagina": "visao-geral",
+        "tema": "claro",
+        "janelas": 7,
+        "resultado": "Paleta escura em janelas, campos e seleção; equivalência entre temas confirmada."
+      },
+      {
+        "pagina": "movimentacoes",
+        "tema": "escuro",
+        "janelas": 8,
+        "resultado": "Paleta escura em janelas, campos e seleção; equivalência entre temas confirmada."
+      },
+      {
+        "pagina": "movimentacoes",
+        "tema": "claro",
+        "janelas": 8,
+        "resultado": "Paleta escura em janelas, campos e seleção; equivalência entre temas confirmada."
+      }
+    ],
+    "erros": []
+  },
+  "css_apos_paleta_filtros": {
+    "arquivos": 26,
+    "sintaxe": "ok",
+    "referencias": "ok",
+    "variaveis": "ok",
+    "barras": {
+      "receitas": 5.761962180906413,
+      "despesas": 3.194853482566189
+    }
+  },
+  "paleta_importacao_lancamento": {
+    "resultados": [
+      {
+        "janela": "js-modal-importar",
+        "tema": "escuro",
+        "resultado": "Fundo, texto, campos, botões, controles nativos e sombra iguais ao modo escuro."
+      },
+      {
+        "janela": "js-modal-lancamento",
+        "tema": "escuro",
+        "resultado": "Fundo, texto, campos, botões, controles nativos e sombra iguais ao modo escuro."
+      },
+      {
+        "janela": "js-modal-importar",
+        "tema": "claro",
+        "resultado": "Fundo, texto, campos, botões, controles nativos e sombra iguais ao modo escuro."
+      },
+      {
+        "janela": "js-modal-lancamento",
+        "tema": "claro",
+        "resultado": "Fundo, texto, campos, botões, controles nativos e sombra iguais ao modo escuro."
+      }
+    ],
+    "erros": []
+  },
+  "css_apos_importacao_lancamento": {
+    "arquivos": 26,
+    "sintaxe": "ok",
+    "referencias": "ok",
+    "variaveis": "ok",
+    "barras": {
+      "receitas": 5.761962180906413,
+      "despesas": 3.194853482566189
+    }
+  },
+  "desfoque_login": {
+    "resultados": [
+      {
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "tema": "claro",
+        "resultado": "Fundo desfocado em 6px, conteúdo nítido e sem rolagem adicional."
+      },
+      {
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "tema": "escuro",
+        "resultado": "Fundo desfocado em 6px, conteúdo nítido e sem rolagem adicional."
+      },
+      {
+        "viewport": {
+          "width": 375,
+          "height": 667
+        },
+        "tema": "claro",
+        "resultado": "Fundo desfocado em 6px, conteúdo nítido e sem rolagem adicional."
+      },
+      {
+        "viewport": {
+          "width": 375,
+          "height": 667
+        },
+        "tema": "escuro",
+        "resultado": "Fundo desfocado em 6px, conteúdo nítido e sem rolagem adicional."
+      }
+    ],
+    "erros": []
+  },
+  "css_apos_desfoque": {
+    "arquivos": 26,
+    "sintaxe": "ok",
+    "referencias": "ok",
+    "variaveis": "ok",
+    "barras": {
+      "receitas": 5.761962180906413,
+      "despesas": 3.194853482566189
+    }
+  },
+  "desfoque_telas_acesso": {
+    "resultados": [
+      {
+        "pagina": "login",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "tema": "claro",
+        "resultado": "Fundo desfocado em 6px; conteúdo nítido; sem overflow horizontal."
+      },
+      {
+        "pagina": "cadastro",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "tema": "claro",
+        "resultado": "Fundo desfocado em 6px; conteúdo nítido; sem overflow horizontal."
+      },
+      {
+        "pagina": "recuperar-senha",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "tema": "claro",
+        "resultado": "Fundo desfocado em 6px; conteúdo nítido; sem overflow horizontal."
+      },
+      {
+        "pagina": "login",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "tema": "escuro",
+        "resultado": "Fundo desfocado em 6px; conteúdo nítido; sem overflow horizontal."
+      },
+      {
+        "pagina": "cadastro",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "tema": "escuro",
+        "resultado": "Fundo desfocado em 6px; conteúdo nítido; sem overflow horizontal."
+      },
+      {
+        "pagina": "recuperar-senha",
+        "viewport": {
+          "width": 1366,
+          "height": 768
+        },
+        "tema": "escuro",
+        "resultado": "Fundo desfocado em 6px; conteúdo nítido; sem overflow horizontal."
+      },
+      {
+        "pagina": "login",
+        "viewport": {
+          "width": 375,
+          "height": 667
+        },
+        "tema": "claro",
+        "resultado": "Fundo desfocado em 6px; conteúdo nítido; sem overflow horizontal."
+      },
+      {
+        "pagina": "cadastro",
+        "viewport": {
+          "width": 375,
+          "height": 667
+        },
+        "tema": "claro",
+        "resultado": "Fundo desfocado em 6px; conteúdo nítido; sem overflow horizontal."
+      },
+      {
+        "pagina": "recuperar-senha",
+        "viewport": {
+          "width": 375,
+          "height": 667
+        },
+        "tema": "claro",
+        "resultado": "Fundo desfocado em 6px; conteúdo nítido; sem overflow horizontal."
+      },
+      {
+        "pagina": "login",
+        "viewport": {
+          "width": 375,
+          "height": 667
+        },
+        "tema": "escuro",
+        "resultado": "Fundo desfocado em 6px; conteúdo nítido; sem overflow horizontal."
+      },
+      {
+        "pagina": "cadastro",
+        "viewport": {
+          "width": 375,
+          "height": 667
+        },
+        "tema": "escuro",
+        "resultado": "Fundo desfocado em 6px; conteúdo nítido; sem overflow horizontal."
+      },
+      {
+        "pagina": "recuperar-senha",
+        "viewport": {
+          "width": 375,
+          "height": 667
+        },
+        "tema": "escuro",
+        "resultado": "Fundo desfocado em 6px; conteúdo nítido; sem overflow horizontal."
+      }
+    ],
+    "erros": []
+  },
+  "css_apos_desfoque_compartilhado": {
+    "arquivos": 26,
+    "sintaxe": "ok",
+    "referencias": "ok",
+    "variaveis": "ok",
+    "barras": {
+      "receitas": 5.761962180906413,
+      "despesas": 3.194853482566189
+    }
+  }
+}
